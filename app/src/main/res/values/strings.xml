@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Check My Health</string>
+    <string name="version">2.0</string>
+    <string name="enis">ENIS--GI1--2020</string>
+    <string name="indice">INDICE DE MASSE DE GRAISSE</string>
+    <string name="history">HISTORIQUE</string>
+</resources>
